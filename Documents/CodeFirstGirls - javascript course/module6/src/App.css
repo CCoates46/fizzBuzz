@@ -1,0 +1,23 @@
+h1 {
+  color: Red;
+}
+
+h3 {
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+p {
+  font-style: italic
+}
+
+#book {
+  color: blue;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.purple {
+  color: purple;
+  font-style: italic;
+}

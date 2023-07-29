@@ -1,0 +1,7 @@
+.paragraph1 {
+    font-size: 18px;
+    font-family: sans-serif;
+    width: 400px;
+    border: 1px solid orange;
+    padding: 30px
+}
